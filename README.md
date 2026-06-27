@@ -49,4 +49,4 @@ reduce backorders, and improve supply chain efficiency.
 
 ## 📸 Dashboard Preview
 
-![Inventory and Supply Chain Overview](Assets/Inventory_SupplyChain_Overview.png)
+![Inventory and Supply Chain Overview](Assests/Inventory_SupplyChain_Overview.png)
