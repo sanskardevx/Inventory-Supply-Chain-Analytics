@@ -34,12 +34,12 @@ reduce backorders, and improve supply chain efficiency.
 
 ## 💡 Key Insights
 
-- **Furniture** drives the highest transportation cost in **North**, while **Electronics** leads in **West** and **East**, and **Clothing** leads in **South**
-- **Sales grew nearly 200x** between 2021 (1K units) and 2024 (~198K units)
-- **Lead times are fairly consistent** across categories, ranging from 15.29 to 16.60 days
-- **Most stocked-out orders (backorders) get fulfilled** — 0.84K Fulfilled vs only 0.25K Pending and 0.11K Canceled
-- **North holds the highest inventory levels** across most categories, except Electronics, where **West** leads
-- **Warehouse Utilization at just 34.1%** indicates significant unused capacity for scaling operations
+- **Sales grew sharply post-2021**, rising from just 1K units to ~198K by 2024
+- **Furniture drives the highest transportation cost in North**, while **Electronics leads in West and East**, and **Clothing leads in South**
+- **~70% of backordered orders were successfully fulfilled** (0.84K), with the rest still pending or canceled
+- **North holds the highest inventory levels** across most categories, except Electronics, where West leads
+- **Lead times remained stable across categories**, ranging between 15–17 days
+- **Warehouse Utilization at just 34.1%** indicates significant available storage capacity
 
 ---
 
