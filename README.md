@@ -34,12 +34,12 @@ reduce backorders, and improve supply chain efficiency.
 
 ## 💡 Key Insights
 
-- **Fulfilled orders** dominate at 0.84K vs just 0.25K pending and 0.11K canceled — strong order processing
-- **West region** incurs the highest transportation cost, led by **Furniture** and **Clothing**
-- **Units sold** grew from just 1K in 2021 to nearly 198K by 2024 — strong year-on-year growth
-- **Clothing** carries the highest inventory levels across all four regions
-- **Inventory Turnover Ratio of 23.47x** reflects highly efficient stock management
-- **Warehouse Utilization at 34.1%** leaves significant room to scale operations
+- **Furniture** drives the highest transportation cost in **North**, while **Electronics** leads in **West** and **East**, and **Clothing** leads in **South**
+- **Sales grew nearly 200x** between 2021 (1K units) and 2024 (~198K units)
+- **Lead times are fairly consistent** across categories, ranging from 15.29 to 16.60 days
+- **Most stocked-out orders (backorders) get fulfilled** — 0.84K Fulfilled vs only 0.25K Pending and 0.11K Canceled
+- **North holds the highest inventory levels** across most categories, except Electronics, where **West** leads
+- **Warehouse Utilization at just 34.1%** indicates significant unused capacity for scaling operations
 
 ---
 
