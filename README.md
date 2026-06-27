@@ -44,3 +44,9 @@ reduce backorders, and improve supply chain efficiency.
 ---
 
 ## 📁 Project Structure
+
+---
+
+## 📸 Dashboard Preview
+
+![Inventory and Supply Chain Overview](Assets/01_Inventory_SupplyChain_Overview.png)
